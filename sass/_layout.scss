@@ -1,7 +1,7 @@
 .container {
     max-width: 120rem;
     margin: 8rem auto;
-    background-color: var(---color-gray-light-2);
+    background-color: var(--color-gray-light-2);
     box-shadow: var(--shadow-dark);
 
     min-height: 50rem;
@@ -13,7 +13,7 @@
     align-items: center;
     height: 7rem;
     background-color: #fff;
-    border-bottom: var(---color-gray-light-2);
+    border-bottom: var(--color-gray-light-2);
     font-size: 1.4rem;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .sidebar {
-    background-color: var(---color-gray-dark-1);
+    background-color: var(--color-gray-dark-1);
 
     flex: 0 0 18%;
 }
